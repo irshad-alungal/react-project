@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(223, 208, 189);
+}
+.main-head {
+    padding-left: 60px;
+    padding-bottom: 20px;
+}
+
+.para{
+    text-align: justify;
+    text-justify: inter-word;
+    padding-left: 60px;
+}
+
+img {
+    padding: 30px;
+}
